@@ -1,0 +1,21 @@
+{
+  "version": "1.0.1",
+  "name": "Kaufland",
+  "marketplaceName": "Kaufland.de",
+  "description": "Über die Anbindung des Online-Marktplatzes Kaufland.de wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Kaufland.de zu listen.",
+  "namespace": "MultiChannelKauflandDe",
+  "pluginIcon": "icon_plugin_xs.png",
+  "author": "plentysystems AG",
+  "email": "support@plentymarkets.eu",
+  "authorIcon": "icon_author_xs.png",
+  "shortDescription": {
+    "de": "Über die Anbindung des Online-Marktplatzes Kaufland.de wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Kaufland.de zu listen. Die Schnittstelle zu Kaufland.de ist in plentymarkets 7 bereits integriert.",
+    "en": "The integration of the online marketplace Kaufland.de enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on Kaufland.de. The interface to Kaufland.de is already integrated into plentymarkets 7."
+  },
+  "license": "AGPL-3.0",
+  "categories": [
+    3523
+  ],
+  "price": 0.00,
+  "type": "plentyInfo"
+}
