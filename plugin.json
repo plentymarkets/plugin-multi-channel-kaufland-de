@@ -3,7 +3,7 @@
   "name": "Kaufland",
   "marketplaceName": "Kaufland.de",
   "description": "Über die Anbindung des Online-Marktplatzes Kaufland.de wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Kaufland.de zu listen.",
-  "namespace": "MultiChannelKauflandDe",
+  "namespace": "Kaufland",
   "pluginIcon": "icon_plugin_xs.png",
   "author": "plentysystems AG",
   "email": "support@plentymarkets.eu",
