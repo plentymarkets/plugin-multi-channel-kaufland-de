@@ -8,4 +8,4 @@
 
 ## Manual
 
-<a href="https://knowledge.plentymarkets.com/en/omni-channel/multi-channel/kaufland-de" target="_blank">Knowledge</a>
+<a href="https://knowledge.plentymarkets.com/en-gb/manual/main/markets/kaufland-de.html" target="_blank">Knowledge</a>

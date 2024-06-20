@@ -8,4 +8,4 @@
 
 ## Handbuch
 
-<a href="https://knowledge.plentymarkets.com/omni-channel/multi-channel/kaufland-de/kaufland-de-einrichten" target="_blank">Knowledge</a>
+<a href="https://knowledge.plentymarkets.com/de-de/manual/main/maerkte/kaufland-de.html" target="_blank">Knowledge</a>
