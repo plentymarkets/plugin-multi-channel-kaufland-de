@@ -3,11 +3,11 @@
 
 <div class="container-toc"></div>
 
-plentymarkets bietet in seiner leistungsstarken eCommerce-Komplettlösung eine automatisierte Schnittstelle zu Kaufland.de an. plentySeller haben dadurch die Möglichkeit, ohne großen Aufwand einen zusätzlichen Marktplatz zu bestücken.
+PlentyONE bietet in seiner leistungsstarken eCommerce-Komplettlösung eine automatisierte Schnittstelle zu Kaufland.de an. Händler:innen haben dadurch die Möglichkeit, ohne großen Aufwand einen zusätzlichen Marktplatz zu bestücken.
 
-Auf Kaufland.de können Sie Artikel aus über 5.000 Produktkategorien verkaufen. Der umfassende Produktdatenkatalog ermöglicht Ihnen das einfache Einstellen per EAN. Durch die Schnittstelle zu plentymarkets ist ein Start auf Kaufland.de innerhalb weniger Minuten möglich. Die Listung Ihrer Artikel sowie der Abruf von Bestellungen erfolgt daraufhin voll automatisiert. Die Zahlungsabwicklung übernimmt ebenfalls Kaufland.de für Sie, d.h. Sie tragen weder Paymentkosten noch Inkassorisiko.
+Auf Kaufland.de kannst du Artikel aus über 5.000 Produktkategorien verkaufen. Der umfassende Produktdatenkatalog ermöglicht dir das einfache Einstellen per EAN. Durch die Schnittstelle zu PlentyONE ist ein Start auf Kaufland.de innerhalb weniger Minuten möglich. Die Listung deiner Artikel sowie der Abruf von Bestellungen erfolgt daraufhin voll automatisiert. Die Zahlungsabwicklung übernimmt ebenfalls Kaufland.de für dich, d.h. du trägst weder Paymentkosten noch Inkassorisiko.
 
-Ihre Vorteile als Händler:in auf Kaufland.de:
+Deine Vorteile als Händler:in auf Kaufland.de:
 
 * hohe Reichweite: ca. 32 Mio. Besucher:innen/Monat
 * hohe Markenbekanntheit: 1.300 Kaufland-Filialen in 8 Ländern
