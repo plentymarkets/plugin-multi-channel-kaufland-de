@@ -5,15 +5,15 @@
     "de": "Kaufland.de",
     "en": "Kaufland.de"
   },
-  "description": "Über die Anbindung des Online-Marktplatzes Kaufland.de wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Kaufland.de zu listen.",
+  "description": "Über die Anbindung des Online-Marktplatzes Kaufland.de wird der automatische Austausch von Artikel- und Auftragsdaten mit PlentyONE ermöglicht, um Artikel auf Kaufland.de zu listen.",
   "namespace": "Kaufland",
   "pluginIcon": "icon_plugin_xs.png",
-  "author": "plentysystems AG",
-  "email": "support@plentymarkets.eu",
+  "author": "PlentyONE GmbH",
+  "email": "https://www.plentyone.com/de/support-center",
   "authorIcon": "icon_author_xs.png",
   "shortDescription": {
-    "de": "Über die Anbindung des Online-Marktplatzes Kaufland.de wird der automatische Austausch von Artikel- und Auftragsdaten mit plentymarkets ermöglicht, um Artikel auf Kaufland.de zu listen. Die Schnittstelle zu Kaufland.de ist in plentymarkets 7 bereits integriert.",
-    "en": "The integration of the online marketplace Kaufland.de enables an automatic exchange of item- and order data with plentymarkets, allowing to list items on Kaufland.de. The interface to Kaufland.de is already integrated into plentymarkets 7."
+    "de": "Über die Anbindung des Online-Marktplatzes Kaufland.de wird der automatische Austausch von Artikel- und Auftragsdaten mit PlentyONE ermöglicht, um Artikel auf Kaufland.de zu listen. Die Schnittstelle zu Kaufland.de ist in PlentyONE bereits integriert.",
+    "en": "The integration of the online marketplace Kaufland.de enables an automatic exchange of item- and order data with PlentyONE, allowing to list items on Kaufland.de. The interface to Kaufland.de is already integrated into PlentyONE."
   },
   "license": "AGPL-3.0",
   "categories": [
