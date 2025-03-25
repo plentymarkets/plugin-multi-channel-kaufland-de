@@ -1,20 +1,20 @@
 ![plentymarkets Logo](http://www.plentymarkets.eu/layout/pm/images/logo/plentymarkets-logo.jpg)
 
-# Kaufland.de plugin for plentymarkets 7.x
+# Kaufland plugin for PlentyONE
 
-This is the Kaufland.de plugin developed by plentymarkets. Kaufland.de is already integrated in your plentymarkets 7 system.
+This is the Kaufland plugin developed by PlentyONE. Kaufland is already integrated in PlentyONE.
 
 ## Requirements
 
-This is a plugin for [plentymarkets 7](https://www.plentymarkets.com).
+This is a plugin for [PlentyONE](https://www.plentyone.com/).
 
 ## Installing
 
-For detailed information about plugin provisioning refer to [plentymarkets developers](https://developers.plentymarkets.com/dev-doc/basics#plugin-provisioning).
+For detailed information about plugin provisioning refer to [PlentyONE developers](https://developers.plentymarkets.com/dev-doc/basics#plugin-provisioning).
 
 ## Plugin documentation
 
-- Learn how to create your [first plentymarkets plugin](https://developers.plentymarkets.com/tutorials/helloworld)
+- Learn how to create your [first PlentyONE plugin](https://developers.plentymarkets.com/tutorials/helloworld)
 - Overview of plentymarkets [plugin interfaces](https://developers.plentymarkets.com/dev-doc/basics#guide-interface)
 - The plentymarkets [REST API](https://developers.plentymarkets.com/rest-doc/introduction)
 
