@@ -7,7 +7,7 @@ PlentyONE bietet in seiner leistungsstarken eCommerce-Komplettlösung eine autom
 
 Auf Kaufland kannst du Artikel aus über 5.000 Produktkategorien verkaufen. Der umfassende Produktdatenkatalog ermöglicht dir das einfache Einstellen per EAN. Durch die Schnittstelle zu PlentyONE ist ein Start auf Kaufland innerhalb weniger Minuten möglich. Die Listung deiner Artikel sowie der Abruf von Bestellungen erfolgt daraufhin voll automatisiert. Die Zahlungsabwicklung übernimmt ebenfalls Kaufland für dich, d.h. du trägst weder Paymentkosten noch Inkassorisiko.
 
-Deine Vorteile als Händler:in auf Kaufland.de:
+Deine Vorteile als Händler:in auf Kaufland:
 
 * hohe Reichweite: ca. 32 Mio. Besucher:innen/Monat
 * hohe Markenbekanntheit: 1.300 Kaufland-Filialen in 8 Ländern
