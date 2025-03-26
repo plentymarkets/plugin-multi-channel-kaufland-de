@@ -16,7 +16,7 @@ For detailed information about plugin provisioning refer to [PlentyONE developer
 
 - Learn how to create your [first PlentyONE plugin](https://developers.plentymarkets.com/tutorials/helloworld)
 - Overview of PlentyONE [plugin interfaces](https://developers.plentymarkets.com/dev-doc/basics#guide-interface)
-- The plentymarkets [REST API]( https://developers.plentymarkets.com/en-gb/plentymarkets-rest-api/index.html)
+- The PlentyONE [REST API]( https://developers.plentymarkets.com/en-gb/plentymarkets-rest-api/index.html)
 
 ## Join our community
 
