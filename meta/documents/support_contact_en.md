@@ -8,4 +8,4 @@
 
 ## Manual
 
-<a href="https://knowledge.plentymarkets.com/en-gb/manual/main/markets/kaufland-setup.html" target="_blank">PlentyONE manual</a>
+<a href="https://knowledge.plentyone.com/en-gb/manual/main/markets/kaufland-setup.html" target="_blank">PlentyONE manual</a>
