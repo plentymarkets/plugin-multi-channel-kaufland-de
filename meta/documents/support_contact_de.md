@@ -8,4 +8,4 @@
 
 ## Handbuch
 
-<a href="https://knowledge.plentymarkets.com/de-de/manual/main/maerkte/kaufland.html" target="_blank">PlentyONE Handbuch</a>
+<a href="https://knowledge.plentyone.com/de-de/manual/main/maerkte/kaufland-de-einrichten.html" target="_blank">PlentyONE Handbuch</a>
